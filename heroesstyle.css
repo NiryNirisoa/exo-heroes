@@ -1,0 +1,53 @@
+main {
+    padding: 2% 10%;
+    background-color: #2e2e2e;
+}
+
+.slider {
+    padding: 10% 25%;
+    background-image: url('imag/slid1.jpg');
+    background-size: cover;
+}
+
+main section div {
+    color: white;
+}
+
+a.btn {
+    color: aliceblue;
+    border-color: aliceblue;
+}
+
+.batman {
+    padding: 0;
+    border: 50px;
+    background-color: #141314;
+}
+
+.batman div {
+    padding: 2% 5%;
+    text-align: center;
+}
+
+.batman div span {
+    color: rgb(163, 163, 14);
+}
+
+.postwo {
+    padding: 0;
+    border: 50px;
+    background-color: rgb(140, 155, 238);
+}
+
+.right {
+    text-align: right;
+    float: right;
+}
+
+.bdr {
+    border-radius: 15px;
+}
+
+div.btn {
+    background-color: rgb(214, 197, 45);
+}
